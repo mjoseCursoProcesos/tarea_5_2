@@ -17,6 +17,7 @@ public class Tarea52 {
     public static void main(String[] args) {
         System.out.println("Version 1.0");
         System.out.println("Inicializo git y haré commit");
+        System.out.println("Ahora hago otro commit de versión 1.1");
     }
     
 }
